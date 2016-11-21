@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="color">颜色</string>
+    <string name="red">红色</string>
+    <string name="green">绿色</string>
+    <string name="blue">蓝色</string>
+    <string name="size">大小</string>
+    <string name="bigger">增大</string>
+    <string name="smaller">缩小</string>
+    <string name="style">样式</string>
+    <string name="bold">加粗</string>
+    <string name="italic">倾斜</string>
+     <string name="test_text">测试文字，测试文字！</string>
+    <string name="moren">默认</string>
+    <string name="app_name">TextView特效</string>
+    <string name="title">欢迎参加江西省大学生 &lt;font color=red&gt;手机软件设计赛 &lt;font&gt;</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="content">   &#160;&#160;赛</string>
+    <string name="info">如有疑问请联系我们\n 联系电话:0791&#8211;8386841\nE&#8211;mail:iet2011@163.com\n 网址:http://iet.jxufe.cn</string>
+    
+
+</resources>
